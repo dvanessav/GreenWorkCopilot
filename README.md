@@ -78,5 +78,5 @@ O Agente tem uma restrição para falar somente sobre este assunto, sendo assim 
 
 Este print mostra o histórico completo da execução do agente, incluindo cada etapa processada, tempo de resposta e ferramentas utilizadas.. 
 
-![Legenda da imagem](18.png)
+
 
