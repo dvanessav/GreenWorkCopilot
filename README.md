@@ -22,7 +22,7 @@ Adicionei um conhecimento em PDF com todas as instruções sobre o Agente, fórm
 Alterei o nome do agente para "GreenWorkCopilot" e adicionei as "instruções" do agente e a "descrição do agente". 
 ![Legenda da imagem](6.png)
 
-Depois adicionei a Função de envio de relatório por e-mail: 
+Depois adicionei a Ação de envio de relatório por e-mail: 
 ![Legenda da imagem](7.png)
 ![Legenda da imagem](8.png)
 
