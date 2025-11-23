@@ -8,8 +8,11 @@ Após criar a conta gratuita no Azure para estudantes, configurei o grupo de rec
 Escolhi a opção gpt-4.1-mini (version:2025-04-14). 
 
 ![Legenda da imagem](criacao-agente.png)
+
 ![Legenda da imagem](2.png)
+
 ![Legenda da imagem](3.png)
+
 ![Legenda da imagem](4.png)
 
 
