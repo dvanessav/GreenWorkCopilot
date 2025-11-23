@@ -14,16 +14,15 @@ Escolhi a opção gpt-4.1-mini (version:2025-04-14).
  
 
 #2 Configuração das ações 
-
 Adicionei um conhecimento em PDF com todas as instruções sobre o Agente, fórmulas para realizar o cálculo de emissão de CO2 de acordo com o meio de transporte. 
-
+![Legenda da imagem](5.png)
 
 Alterei o nome do agente para "GreenWorkCopilot" e adicionei as "instruções" do agente e a "descrição do agente". 
-
+![Legenda da imagem](6.png)
 
 Depois adicionei a Função de envio de relatório por e-mail: 
-
-
+![Legenda da imagem](7.png)
+![Legenda da imagem](8.png)
 
  
 
