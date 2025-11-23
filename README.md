@@ -3,6 +3,7 @@ Este agente de IA tem como finalidade calcular e demonstrar a redução de emiss
 Criação do agente no Foundry 
 
 #1 Criação do agente no Foundry 
+
 Após criar a conta gratuita no Azure para estudantes, configurei o grupo de recursos e acessei o portal do AI Foundry para criar um Agente. 
 Escolhi a opção gpt-4.1-mini (version:2025-04-14). 
 ![Legenda da imagem](1.png)
@@ -14,6 +15,7 @@ Escolhi a opção gpt-4.1-mini (version:2025-04-14).
  
 
 #2 Configuração das ações 
+
 Adicionei um conhecimento em PDF com todas as instruções sobre o Agente, fórmulas para realizar o cálculo de emissão de CO2 de acordo com o meio de transporte. 
 ![Legenda da imagem](5.png)
 
