@@ -31,7 +31,7 @@ Depois adicionei a Ação de envio de relatório por e-mail:
 #3 Execução do agente (teste) 
 
 O GreenWorkCopilot é um agente criado no Foundry para calcular e comparar a emissão de CO₂ entre trabalho remoto e presencial. Então ele é direto ao ponto e já solicita os dados necessários para realizar o cálculo. 
-
+![Legenda da imagem](9.png)
 
 Ele vai pedir 4 informações que são essenciais para fazer os cálculo:  
 
@@ -42,24 +42,24 @@ Ele vai pedir 4 informações que são essenciais para fazer os cálculo:
 3 - Qual é a distância percorrida até a empresa (ida, em km),  
 
 4 – Qual é o tipo de transporte utilizado nos dias presenciais (carro, moto, ônibus, metrô, trem).  
-
-
+![Legenda da imagem](10.png)
+![Legenda da imagem](11.png)
 
 Então o Agente faz um resumo sobre os dados coletados e começa a fazer o cálculo: 
-
+![Legenda da imagem](12.png)
 
 Em seguida ele apresenta os resultados em formato de relatório: 
-
+![Legenda da imagem](13.png)
 
 Também apresenta um impacto equivalente utilizando analogias fáceis de entender, como por exemplo: “Seu trabalho remoto equivale a plantar X árvores por ano” ou "Esse resultado é equivalente a retirar X carros de circulação por um ano".  
-
+![Legenda da imagem](14.png)
 
 Também sugere enviar o relatório por e-mail: 
-
-
+![Legenda da imagem](15.png)
+![Legenda da imagem](16.png)
 
 O Agente tem uma restrição para falar somente sobre este assunto, sendo assim ele não consegue responder outros tipos de dúvidas. 
-
+![Legenda da imagem](17.png)
 
  
 
