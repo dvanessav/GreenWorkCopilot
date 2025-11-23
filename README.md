@@ -7,11 +7,11 @@ Criação do agente no Foundry
 Após criar a conta gratuita no Azure para estudantes, configurei o grupo de recursos e acessei o portal do AI Foundry para criar um Agente. 
 Escolhi a opção gpt-4.1-mini (version:2025-04-14). 
 
-![1.png](1.png)
+![Criação do agente](1.png)
 
 ![Legenda da imagem](2.png)
 
-![3.png](3.png)
+![Configuração](3.png)
 
 ![Legenda da imagem](4.png)
 
