@@ -12,7 +12,8 @@ Escolhi a opção gpt-4.1-mini (version:2025-04-14).
 
 ![Legenda da imagem](2.png)
 
-![Configuração](3.png)
+![Configuração](3.png)<img width="1919" height="934" alt="image" src="https://github.com/user-attachments/assets/1433a720-fd26-4691-881e-7abb210ddb0f" />
+
 
 ![Legenda da imagem](4.png)
 
